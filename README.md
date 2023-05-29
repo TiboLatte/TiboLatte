@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TiboLatte</h1>
 <h3 align="center">I'll go with everything</h3>
 
-- 🔭 I’m currently working on **reddit scrapping bot in python / learning**
+- 🔭 I’m currently working on **Simulating chimiotacism**
 
-- 🌱 I’m currently learning **Blockchain creation and implementation**
+- 🌱 I’m currently learning **To have fun**
 
 - 💬 Ask me about **Ai, minecraft, what you want !**
 
